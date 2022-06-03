@@ -6,7 +6,7 @@ import os
 
 # settings = input("Путь к настройкам\n")
 # print(os.path.exists(settings))
-save = r"C:\Users\Пользователь\Desktop\6less-main\Settings\Save.json"
+save = r"C:\Users\Пользователь\Desktop\ПУть"
 
 # ---------------------------------
 class User(object):
